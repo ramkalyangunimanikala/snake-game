@@ -19,7 +19,7 @@ You will need the following to run the Snake Game:
 
 1. Clone the repository or download the source code files.
    ```shell
-   git clone https://github.com/your-username/snake-game.git
+   git clone https://github.com/ramkalyangunimanikala/snake-game
 
 # Navigate to the project directory
 cd snake-game
