@@ -3,7 +3,7 @@ The Snake Game is a classic arcade game where the player controls a snake that g
 
 ## Game Preview
 
-![Snake Game Preview](snake-game-preview.gif)
+![Snake Game Preview](https://ramkalyangunimanikala.github.io/snake-game/
 
 ## Getting Started
 
